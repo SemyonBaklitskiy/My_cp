@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/symon/Documents/Skubachevsky/Homework/my_cp",
+            "binaryPath": "/home/symon/Documents/Skubachevsky/Homework/my_cp/main",
+            "binaryArgs": []
+        }
+    ]
+}
