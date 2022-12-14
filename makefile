@@ -8,4 +8,4 @@ main.o: main.cpp
 	g++ -Wall -Wextra -c main.cpp -o main.o
 
 clean:
-	rm main.o functions.o main
+	rm main.o functions.o cp
